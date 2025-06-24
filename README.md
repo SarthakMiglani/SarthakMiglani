@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @SarthakMiglani
-- 👀 I’m interested in ... Cyber Security
-- 🌱 I’m currently learning ... C Language
-- 💞️ I’m looking to collaborate on ... C language
-
-<!---
-SarthakMiglani/SarthakMiglani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![SarthakMiglani's Stats](https://github-readme-stats.vercel.app/api?username=SarthakMiglani&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![SarthakMiglani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMiglani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
